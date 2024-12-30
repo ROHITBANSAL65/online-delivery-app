@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for your **OnlineDeliveryApp** project. This template provides a comprehensive overview of your project and can be customized based on your specific needs.
-
-
-
 # OnlineDeliveryApp
 
 An online delivery application designed to streamline the process of managing users, products, and orders. This app features a robust backend built with Flask and a dynamic frontend powered by modern web development tools.
